@@ -12,4 +12,4 @@ I stumped TA Brian today, which was kinda fun. I was working on the `or` part of
 
 Next up, more complicated JS!  
 
-!(lets do this)(http://s2.quickmeme.com/img/a9/a999adfe26ebc81a94754b364c4881b077ae695bd220d1a963142ef521df008b.jpg)
+!(lets do this) (http://s2.quickmeme.com/img/a9/a999adfe26ebc81a94754b364c4881b077ae695bd220d1a963142ef521df008b.jpg)
