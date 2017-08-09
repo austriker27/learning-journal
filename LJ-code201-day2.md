@@ -1,5 +1,5 @@
-#LJ Code 201 - Day 2
-##Journaling to Learning
+# LJ Code 201 - Day 2
+## Journaling to Learning
 
 *Directions:
 At the end of the day, write to your heart's content. Write about what you learned, what may or may not have happened in group work, what you're hoping for, etc. This is for your own reflection more than it is just another assessment instrument.*
