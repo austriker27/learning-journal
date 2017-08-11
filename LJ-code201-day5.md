@@ -1,0 +1,6 @@
+# LJ Code 201 - Day 4
+## Journaling to Learning
+
+Today was interesting, after a lecture about CSS stuff (woohoo! yay for making things pretty) that a lot of review for me (due to my poking around in css/html the last 6 months or so) we were hit with a pretty tricky JS assignment. One of the problems took a long time (2+ hours) of struggling with several of us at our table. The initial structure of when we do branches and what repo to use led to a bit of confusion in the beginning of the lab but after that it was fun doing all sorts of git magic. _(git is truly is a wonderful, wild world)_
+<br>
+I was pretty stoked when Grand Master Nick announced the extra credit assignment of digging deep into CSS and rebuilding the medium page (sidenote: I think I need to blog about week 1 of CF on my medium blog). It looks really tricky but could be fun especially with the nifty new inspector trick in chrome Nick showed. Hopefully I can build some magic _(read: probably ugly)_ CSS stuff this weekend. Also the trick with github hosting websites was awesome. I have visited many websites hosted on github (sidenote: there are like a gazillion sweet web tools out there for web devs) and hosting a static site there seems neato. 
