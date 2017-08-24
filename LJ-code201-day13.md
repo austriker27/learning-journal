@@ -1,0 +1,3 @@
+## Learning Journal
+
+Today was okay. We did another partner programming which was good because Max is a wizard at JS and conceptually working through JS logic. I mean he came up with like a triple nested conditional code formula thing inside a constructor and it worked the first time! It was wild. We also fixed my chart and the rest of my bus mall which was sweeet. Then I worked some fun CSS in the afternoon and made it look pretty. Its crazy to think how far along we've made it. Like being able to come up with a for loop real fast and building constructors feels fairly comfortable, which is so wild considering the struggles we had prior. Im looking forward to applying all this knowledge on my side project sites in the somewhat near future. Woohoo! 
