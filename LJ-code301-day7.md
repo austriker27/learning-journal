@@ -1,0 +1,6 @@
+# Learning Journal
+## CF 301 - Day 7
+
+Today's lecture was mind blowing (mind blowing in the way of 'holy cow this is a lot of new info' and not mind blowing in the way of 'wow this is so coool'). That being said the info was cool. It finally feels like we are really getting into the meat of the web building world. Like some of the stuff we learned today would blow most people's minds wide open I think. I think I understood earlier when we were going through it that we cant expect to understand it all. And while it was a ton of new info I was more content with the content than in the prior days lectures. Mark and I got it done in under an hour, which was probably my fastest partner lab ever (and we did a stretch goal!). The coolest thing we learned was you can install dependencies from the package folder on the repo after you pull it down automatically without having to check what dependencies you would need. (thanks megan!). Also we built a 404 get route and a homepage get route and it was very satisfying! 
+
+Im really glad the project portfolio assignments have lessened up so we can focus on trying to understanding the upcoming content (as it sounds like it will be hard theory stuff) and so that I can focus on catching up my portfolio so its not super broken.
