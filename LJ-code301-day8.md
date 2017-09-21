@@ -1,0 +1,4 @@
+# learning journal
+## cf 301 - day 8
+
+We dug into SQL and learning how to make a database and tables and all sorts of totally new stuff. SQL itself isnt as intimidating as i thought it would be but the rest of everything just is so out in left field its hard to grasp well. Like creating servers and such. Funny story about SQL, I remember in my prior job some people would use it to find things and I would often ask DB admins to find me things in the "SQL" which always intimidated me and sounded like some crazy other world that I would never understand....aaaaaand now Im using it and it doesnt seem anywhere as challenging in writing basic queries as some of the JS advanced stuff. Woohoo software engineering learnings. Anywho all of the stuff we are learning seems like the real stuff. Like back and front end together really seem like we are starting up the real web dev stuff. Its scary and exhilarating. 
