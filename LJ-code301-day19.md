@@ -1,0 +1,4 @@
+# Learning Journal - day 16
+## Code Fellows 301
+
+Wow. Today I hit the wall. Like ran into it. And it felt like it. Today I had a sore throat, big headache and felt awful all day... And yesterday my nose was running. We got a ton finished on the site today and finally got some styles on it! It looks pretty now. Its a simple styling, and we even used a CSS library called Bulma. It took us forever to get everything working though and we have a few bugs to finish. Tomorrow we have to style it for mobile, it looks okay right now but we dont have any specific mobile css rules. Tomorrow is game day! I feel a lot different than CF201 final project. I feel like there is so much more to be done but we have a working app and thats what is important. This afternoon I was dead. Just couldnt think and had very minimal desire to try and hit any stretch goals. Cant.. wait.. for.. break... (**then its side project time!!**)
