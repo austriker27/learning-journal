@@ -1,0 +1,5 @@
+# Learning Journal
+## Code Fellows 401
+### Week 4 - Start of React
+
+Wow. I feel like we just were introduced to react and are now going 20000mph into reactland. It seems like we've gone deep into states and stuff although its hard stuff to learn I think so its probably just the tip of the iceberg. I really like what we are learning and super interested in it although I feel like dumb and my head hurts a lot. I would say morale on the david team is pretty low and I hope we can do more detailed code reviews on stuff is working. Where stuff gets passed to the different states is what is throwing me off I think. Perhaps more drawings will help. Also classes have been going late and Im glad we have been skipping whiteboarding because my brain is usually pretty scrambled after 5 hours of class. Even though Im a big advocate for doing white boards. also im excited for designing and building more stuff with react. the potential of react seems awesome and i'm excited to get my hands more dirty... just hope i can hang for dear life and pass the class.
