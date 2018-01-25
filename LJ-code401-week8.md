@@ -1,0 +1,1 @@
+We've learned a lot and my brain feels like mush. I feel like even more now than before Im handing in broken code over and over again. React JS is a hard beast to grasp how things are moving all over the place. But the potential of react seems super awesome and I cant wait to understand it and use it and build stuff with it. 
